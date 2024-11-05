@@ -1,0 +1,553 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.competenceContainer {
+	width: 2vw;
+	height: 2vw;
+	background: rgb(255, 212, 148);
+	border-radius: 50%;
+}
+
+.number-1 {
+	position: relative;
+	top: -3%;
+	left: 47.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -100%;
+		left: -200%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-2 {
+	position: relative;
+	top: -7.5%;
+	left: 58.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -66%;
+		left: -100%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-3 {
+	position: relative;
+	top: -10%;
+	left: 69.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -60%;
+		left: -70%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-4 {
+	position: relative;
+	top: -9%;
+	left: 78.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -70%;
+		left: 0%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-5 {
+	position: relative;
+	top: -7%;
+	left: 87%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -70%;
+		left: 0%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-6 {
+	position: relative;
+	top: -3%;
+	left: 93%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -70%;
+		left: 20%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-7 {
+	position: relative;
+	top: 2%;
+	left: 96.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -70%;
+		left: 40%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-8 {
+	position: relative;
+	top: 7%;
+	left: 97.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 25%;
+		left: 100%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-9 {
+	position: relative;
+	top: 12.5%;
+	left: 96.5%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 100%;
+		left: 90%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-10 {
+	position: relative;
+	top: 18%;
+	left: 93%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 110%;
+		left: 50%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-11 {
+	position: relative;
+	top: 21.5%;
+	left: 87%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 50%;
+		left: 110%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-12 {
+	position: relative;
+	top: 23%;
+	left: 78%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 70%;
+		left: 100%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-13 {
+	position: relative;
+	top: 24%;
+	left: 69%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 40%;
+		left: 120%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-14 {
+	position: relative;
+	top: 22%;
+	left: 59%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 110%;
+		left: 50%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-15 {
+	position: relative;
+	top: 18%;
+	left: 47%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 140%;
+		left: -190%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-16 {
+	position: relative;
+	top: 11%;
+	left: 36%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 100%;
+		left: -400%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-17 {
+	position: relative;
+	top: 1%;
+	left: 26%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 50%;
+		left: -530%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-18 {
+	position: relative;
+	top: -10%;
+	left: 16%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 50%;
+		left: -500%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-19 {
+	position: relative;
+	top: -24%;
+	left: 8%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 30%;
+		left: -520%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-20 {
+	position: relative;
+	top: -39%;
+	left: 2%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 40%;
+		left: -510%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-21 {
+	position: relative;
+	top: -56%;
+	left: -2%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 30%;
+		left: -510%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-22 {
+	position: relative;
+	top: -72.5%;
+	left: -3%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 20%;
+		left: -510%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-23 {
+	position: relative;
+	top: -89%;
+	left: -2%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 10%;
+		left: -510%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-24 {
+	position: relative;
+	top: -106%;
+	left: 2%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: 0%;
+		left: -510%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-25 {
+	position: relative;
+	top: -121%;
+	left: 8%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -70%;
+		left: -430%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-26 {
+	position: relative;
+	top: -135%;
+	left: 16%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -60%;
+		left: -390%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-27 {
+	position: relative;
+	top: -147%;
+	left: 25%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -60%;
+		left: -350%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+.number-28 {
+	position: relative;
+	top: -156%;
+	left: 36%;
+
+	.text-container {
+		width: 10vw;
+		height: 1vw;
+		font-weight: bold;
+		font-size: 1vw;
+		position: relative;
+		top: -67%;
+		left: -300%;
+		text-align: center;
+		vertical-align: middle;
+		color: rgb(158, 158, 158);
+	}
+}
+
+
+
+
+
+
+
+
+
+
